@@ -82,7 +82,7 @@ body {
 
 @media (min-width: 48em) {
   .masthead-brand {
-    float: left;
+    /*float: left;*/
   }
   .nav-masthead {
     float: right;
